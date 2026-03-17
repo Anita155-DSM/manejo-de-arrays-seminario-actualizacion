@@ -1,7 +1,3 @@
 {
-  "type": "module",
-  "name": "sistema-registro-personas",
-  "version": "1.0.0",
-  "description": "Sistema de registro de personas con JavaScript",
-  "main": "programa.js"
+  "type": "module"
 }
